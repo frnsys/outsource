@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*.swp
+*.swo
+config.yaml
+*.egg-info
